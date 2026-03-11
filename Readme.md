@@ -1,9 +1,7 @@
 # Brief
 A very minimal game that I made when first learning OpenGL and object oriented programming in C++.
-
 **Author:** Max Vestrand
 **Created:** 2014
-
 *This readme was written in March, 2026, when it was uploaded to github (it had no source control when it was made).*
 
 
@@ -11,7 +9,7 @@ A very minimal game that I made when first learning OpenGL and object oriented p
 This is a *very* simple 2 player game made in C++ using OpenGL, GLM for math, and GLFW for a windowing and input system.
 It has no audio and the configuration of the game has to be typed into the main menu (with the game window focused *not* the console).
 
-where the players try to be the last one alive. Each player can jump and drop bombs to destroy terrain. The terrain drops power-ups that make the player faster and give them more simultaneous bombs.
+The players try to be the last one alive. Each player can jump and drop bombs to destroy terrain. The terrain drops power-ups that make the player faster and give them more simultaneous bombs.
 
 This is a toy project I made when I was first learning OpenGL. It was made while I was an undergraduate at NMT, but was entirely independent and unrelated to any classes or course work that I had. 
 
@@ -49,4 +47,5 @@ The OpenAL32.dll was probably intended to be used to add audio, but at that poin
 
 
 # Credit
+
 The GL, GLFW, and glm code and the included .a and .dll shared libraries are not my work and I take no credit for them.  
