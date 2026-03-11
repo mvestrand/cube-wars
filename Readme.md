@@ -26,14 +26,10 @@ Enter the file of the world map you want to play on, the number of players (orig
 
 ### Controls
 Player 1(Red):  
-``move - wasd
-jump - space
-bomb - F``
+``move - wasd``<br>``jump - space``<br>``bomb - F``
 
 Player 2(Blue):  
-``move - arrowkeys
-jump - Num0
-bomb - Num1``
+``move - arrowkeys``<br>``jump - Num0``<br>``bomb - Num1``
 
 
 ### Map Files
@@ -58,6 +54,7 @@ The OpenAL32.dll was probably intended to be used to add audio, but at that poin
 # Credit
 
 The GL, GLFW, and glm code and the included .a and .dll shared libraries are not my work and I take no credit for them.  
+
 
 
 
