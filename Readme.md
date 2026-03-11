@@ -37,10 +37,10 @@ The game map files consist of a "*.world" file, where you specify the game map d
 
 
 ##### World File format
-worldsizeX,worldsizeY,worldsizeZ
-xpos,ypos,zpos,terrain_filename
-xpos,ypos,zpos,terrain_filename
-...
+``worldsizeX,worldsizeY,worldsizeZ``<br>
+``xpos,ypos,zpos,terrain_filename``<br>
+``xpos,ypos,zpos,terrain_filename``<br>
+``...``
 
 
 ##### Terra File format
@@ -54,6 +54,7 @@ The OpenAL32.dll was probably intended to be used to add audio, but at that poin
 # Credit
 
 The GL, GLFW, and glm code and the included .a and .dll shared libraries are not my work and I take no credit for them.  
+
 
 
 
