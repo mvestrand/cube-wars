@@ -19,7 +19,7 @@ The players try to be the last one alive. Each player can jump and drop bombs to
 # Compiling
 The precompiled game executable (for 32 bit windows) is included just to guarantee that there is at least some machine that it runs on. In theory it should be able to compile and run on windows or linux using the included libraries (I'm sorry, I don't know the specific architectures they actually support), as long as they have GCC's c++ compiler and make installed. 
 
-However, given that this is from over 10 years ago, I don't know that I would trust the ABI's to still be consistent. I have no idea what version of GCC this or the shared libraries were built with but it is at least pinned to c++11. Personally, I would recommend using the prebuilt executable if at all possible. Or maybe it runs fine? Again, I'm sorry, I don't have a proper way to test it at the moment.
+However, given that this is from over 10 years ago, I don't know that I would trust the ABI's to still be consistent. I have no idea what version of GCC this or the shared libraries were built with other than that it uses c++11. Personally, I would recommend using the prebuilt executable if at all possible. Or maybe it runs fine? Again, I'm sorry, I don't have a proper way to test it at the moment.
 
 
 # Setup
@@ -56,6 +56,7 @@ The OpenAL32.dll was probably intended to be used to add audio, but at that poin
 # Credit
 
 The GL, GLFW, and glm code and the included .a and .dll shared libraries are not my work and I take no credit for them.  
+
 
 
 
