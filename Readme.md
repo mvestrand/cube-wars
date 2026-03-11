@@ -1,8 +1,7 @@
 # Brief
 A very minimal game that I made when first learning OpenGL and object oriented programming in C++.
 
-**Author:** Max Vestrand
-**Created:** 2014
+**Author:** Max Vestrand <br> **Created:** 2014
 
 *This readme was written in March, 2026, when it was uploaded to github (it had no source control when it was made).*
 
@@ -55,5 +54,6 @@ The OpenAL32.dll was probably intended to be used to add audio, but at that poin
 # Credit
 
 The GL, GLFW, and glm code and the included .a and .dll shared libraries are not my work and I take no credit for them.  
+
 
 
